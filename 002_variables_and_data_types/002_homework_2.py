@@ -3,7 +3,7 @@
 
 a = int(input('Ведите число a = '))
 b = int(input('Ведите число b = '))
-x = int(input('Ведите число x = '))
-if a < x < b  or b < x < a:
+y = int(input('Ведите число y = '))
+if a < y < b  or b < y < a:
     print('True')
 else: print('False')
